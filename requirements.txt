@@ -1,1 +1,3 @@
 appwrite
+pyTelegramBotAPI
+requests
